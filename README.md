@@ -23,11 +23,18 @@ CODTECH-Project-4-Sales-Trend-Visualization is an interactive dashboard built us
 
 ---
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://codtec-project-4-sales-trend-visualization-oapmvgdzumb5ctp7sma.streamlit.app/)
+
+---
+
 # 🌐 LIVE APPLICATION
 
-### 🚀 Access the Dashboard
+🚀 **Try the deployed Sales Trend Visualization Dashboard**
 
-🔗 Add your Streamlit deployment link here
+### 🔗 [Sales Trend Visualization Dashboard](https://codtec-project-4-sales-trend-visualization-oapmvgdzumb5ctp7sma.streamlit.app/)
+
+---
+
 
 ---
 
